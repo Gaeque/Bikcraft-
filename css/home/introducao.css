@@ -5,6 +5,10 @@
 
 .introducao img {
   border-radius: 10px;
+  object-fit: cover;
+  width: 100%;
+  object-position: left;
+  height: 100%;
 }
 
 .introducao {
